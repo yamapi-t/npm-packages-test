@@ -1,7 +1,11 @@
 {
-  "name": "npm-packages-test",
+  "name": "@tatsumiyamamoto/npm-packages-test",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamapi-t/npm-packages-test"
+  },
   "publishConfig": {
     "@yamapi-t:registry": "https://npm.pkg.github.com"
   },
@@ -9,6 +13,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "tatsumiyamamoto",
+  "license": "MIT"
 }
