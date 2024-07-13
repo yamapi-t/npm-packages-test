@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yamapi-t/npm-packages-test"
+    "url": "https://github.com/yamapi-t/npm-packages-test.git"
   },
   "publishConfig": {
     "@yamapi-t:registry": "https://npm.pkg.github.com"
