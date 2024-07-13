@@ -1,5 +1,5 @@
 {
-  "name": "@tatsumiyamamoto/npm-packages-test",
+  "name": "@yamapi-t/npm-packages-test",
   "version": "0.1.0",
   "description": "",
   "repository": {
@@ -13,6 +13,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "tatsumi yaamototo",
+    "email": "oreore1256@gmail.com"
   },
   "license": "MIT"
 }
