@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "github.vscode-github-actions",
+        "editor.formatOnSave": true
+    },
+    "[javascript][typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+}
